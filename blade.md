@@ -1064,6 +1064,7 @@ By default, some keywords are reserved for Blade's internal use in order to rend
 
 <div class="content-list" markdown="1">
 
+- `attributes`
 - `data`
 - `render`
 - `resolveView`
